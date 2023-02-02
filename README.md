@@ -5,7 +5,7 @@
 Hi there, I'm Swardha Sawant👋
 
 - 🔭 I’m currently working on React Projects
-- 🌱 I’m currently learning Next JS
+- 🌱 I’m currently learning React-Redux
 - 👯 I’m looking to collaborate on Api projects
 - 🤔 I’m looking for help with Full stack projects
 - 💬 Ask me about web development stuff
